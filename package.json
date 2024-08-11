@@ -1,0 +1,16 @@
+{
+  "name": "zstreamer",
+  "version": "1.0.0",
+  "description": "ZStreamer is an s3 proxy that recompresses uncompressed files to zstd on the fly, reducing internet egress costs.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1672.0",
+    "express": "^4.19.2",
+    "simple-zstd": "^1.4.2"
+  }
+}
