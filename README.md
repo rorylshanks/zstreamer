@@ -1,7 +1,3 @@
-Here's the updated README with your tool's name, **ZStreamer**:
-
----
-
 <a name="readme-top"></a>
 
 <div align="center">
